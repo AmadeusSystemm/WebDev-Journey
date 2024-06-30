@@ -4,6 +4,8 @@
 ## Promises
 
 - ![[Pasted image 20240630235237.png]]
+- ![image](https://github.com/AmadeusSystemm/WebDev-Journey/assets/140977938/93be7826-d1ad-4b49-a1dc-f5fbc92ca392)
+
 - so promise with .then is basically the above cycle
 - for async await syntax and a little recap watch this youtube to jog your memory
 - https://youtu.be/1Z7FjG--F20?si=gwY15OWUkkhObCOM
